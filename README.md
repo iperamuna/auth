@@ -9,7 +9,7 @@
 
 ## About
 
-Auth is a plug'n play authentication package for any <a href="https://laravel.com" target="_blank">Laravel application</a>.
+Auth is a plug'n play authentication package for any <a href="https://laravel.com" target="_blank">Laravel application</a>. We have closed **issues** for this repo and are recommending that anyone who wants to report an issue or make a suggestion to do so here: [https://devdojo.com/questions](https://devdojo.com/questions). Additionally, we are open to any kind of Pull Request 😉
 
 <a href="https://devdojo.com/auth" target="_blank"><img src="https://cdn.devdojo.com/images/june2024/devdojo-auth-image.png" class="w-full h-full" style="border-radius:10px" /></a>
 
@@ -48,7 +48,7 @@ class User extends AuthUser
 
 in your `App\Models\User` model. 
 
-Now, you're ready to rock! Auth has just been isntalled and you'll be able to visit the following authentication routes:
+Now, you're ready to rock! Auth has just been installed and you'll be able to visit the following authentication routes:
 
  - Login (project.test/auth/login)
  - Register (project.test/auth/register)
